@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import MapaCID from './MapaCid';
 import { BookOpen, Users, Building2, MessageCircle, X, Send, Filter, Award, Shield, Code, Lightbulb, Calculator, TrendingUp, AlertCircle, CheckCircle, Info } from 'lucide-react';
 import { RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar, ResponsiveContainer, Legend } from 'recharts';
 
@@ -812,6 +813,7 @@ Responde de forma clara y práctica sobre normas de calidad de software.`;
             </div>
           </nav>
           <ComparadorNormas />
+          <MapaCID />
         </>
       )}
 
